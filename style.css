@@ -1,6 +1,6 @@
 header {
 
-    background-color: #333333
+    background-color: #333;
 
 }
 
@@ -8,11 +8,11 @@ h1 {
 
     font-size: 28px;
 
-    color:eee;
+    color:white;
 
     margin: auto;
 
-    width: 50%;
+    width: 10%;
 }
 
 h2 {
